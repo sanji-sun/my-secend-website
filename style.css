@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font: 50px;
+}
+.orange-highlight{
+    color:orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.half-width img{
+    width: 80%;
+}
+
+.top-banner{
+    border: 1px solid red;
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 600px;
+    padding-bottom: 200px;
+ 
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon,tomato);
+    background-color: orange;
+    padding:10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+
+    
+}
+h2{
+    font: 50px;
+}
+p{
+    color: dimgray;
+}
+.Dream-project{
+    background-image: url(images/dream-bg.png);
+
+}
+.single-expeiences{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 40%;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-Gradient( lightsalmon, tomato);
+    border-image-slice: 1;
+
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-Gradient( blue, cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 10px;
+}
